@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalTestProject</string>
+    <string name="settings">Настройки</string>
+    <string name="last_list">Последний лист</string>
+    <string name="text_for_tv">Введите текст</string>
+    <string name="goToNewActivity">Перейти на новое активити</string>
+</resources>
